@@ -82,28 +82,28 @@ if st.button('Click me!'):
 ## Этапы регистрации
 Посетите сайт облака https://streamlit.io/cloud
 
-![](src\reg_1.png)
+![](https://github.com/Kotyga/DLS_streamlit_kit_tutor/blob/main/src/reg_1.png)
 
 Нажмите `Get Started`
 
-![](src\reg_2.png)
+![](https://github.com/Kotyga/DLS_streamlit_kit_tutor/blob/main/src/reg_2.png)
 
 Создаете аккаунт
 
-![](src\reg_3.png)
+![](https://github.com/Kotyga/DLS_streamlit_kit_tutor/blob/main/src/reg_3.png)
 
 Обязательно авторизация через `GitHub`
 
-![](src\reg_4.png)
-![](src\reg_5.png)
+![](https://github.com/Kotyga/DLS_streamlit_kit_tutor/blob/main/src/reg_4.png)
+![](https://github.com/Kotyga/DLS_streamlit_kit_tutor/blob/main/src/reg_5.png)
 
 Далее открывается ваша рабочая область с проетками. Для нового проекта нажмите `Create App` в верхнем правом углу
 
-![](src\reg_6.png)
+![](https://github.com/Kotyga/DLS_streamlit_kit_tutor/blob/main/src/reg_6.png)
 
 Затем заполняете соответствующие поля. Если основной файл не был найден, Streamlit вам об этом скажет.
 
-![](src\reg_7.png)
+![](https://github.com/Kotyga/DLS_streamlit_kit_tutor/blob/main/src/reg_7.png)
 
 Важно уточнить, чтобы ваше приложение задеплоилось корректно в вашем репозитории должно быть:
 1. Стартовая страница
