@@ -20,7 +20,7 @@ source venv/bin/activate
 * Для Windows:
 
 ```shell
-source venv\Scripts\activate
+venv\Scripts\activate
 ```
 
 ### Обновим пакетный менеджер pip:
