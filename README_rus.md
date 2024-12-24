@@ -97,7 +97,7 @@ if st.button('Click me!'):
 ![](https://github.com/Kotyga/DLS_streamlit_kit_tutor/blob/main/src/reg_4.png)
 ![](https://github.com/Kotyga/DLS_streamlit_kit_tutor/blob/main/src/reg_5.png)
 
-Далее открывается ваша рабочая область с проетками. Для нового проекта нажмите `Create App` в верхнем правом углу
+Далее открывается ваша рабочая область с проектами. Для нового проекта нажмите `Create App` в верхнем правом углу
 
 ![](https://github.com/Kotyga/DLS_streamlit_kit_tutor/blob/main/src/reg_6.png)
 
