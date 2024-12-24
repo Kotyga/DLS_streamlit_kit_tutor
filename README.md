@@ -3,7 +3,7 @@ Tutorial on working with Streamlit as part of the Computer Vision course from th
 
 ## Preparation of the working environment
 
-Streamlit is a popular open source Python library widely used by ML developers to show the product. Its main advantage is that working with it ** DOES NOT require** special knowledge of js/css/html/go and so on to create websites. A good command of Python and the framework itself is enough.
+Streamlit is a popular open source Python library widely used by ML developers to show the product. Its main advantage is that working with it **DOES NOT require** special knowledge of js/css/html/go and so on to create websites. A good command of Python and the framework itself is enough.
 
 ### Creating a virtual environment:
 ```shell
